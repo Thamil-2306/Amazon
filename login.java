@@ -1,1 +1,2 @@
-This is my java project
+This is my java projec
+Hello all 
